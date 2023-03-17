@@ -1,5 +1,5 @@
 # WebHook-Spammer
-spams a webhook with messages
+spams discord webhook with messages
 
 > __Warning__
 >
