@@ -1,5 +1,5 @@
 # WebHook-Spammer
-spams discord webhook with messages
+spams discord webhook with messages created when I got ahold of a scammers webhook >:)
 
 > __Warning__
 >
